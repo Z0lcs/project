@@ -2,4 +2,10 @@ function Add(a, b) {
     return a + b;
 }
 
+<<<<<<< HEAD
 // Main branch update
+=======
+function Multiply(a, b) {
+    return a * b;
+}
+>>>>>>> feature
