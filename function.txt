@@ -7,4 +7,6 @@ function Factorial(n) {
     return n * Factorial(n - 1);
 }
 
-Factorial(5)
+function Multiply(a, b) {
+    return a * b;
+}
