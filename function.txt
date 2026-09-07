@@ -2,10 +2,11 @@ function Add(a, b) {
     return a + b;
 }
 
-<<<<<<< HEAD
-// Main branch update
-=======
+function Factorial(n) {
+    if (n <= 1) return 1;
+    return n * Factorial(n - 1);
+}
+
 function Multiply(a, b) {
     return a * b;
 }
->>>>>>> feature
